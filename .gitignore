@@ -36,6 +36,8 @@
 ehthumbs.db
 Thumbs.db
 
+dist/
+
 # Secrets #
 ###########
 .secret
@@ -52,6 +54,12 @@ node_modules
 ##########
 .vscode
 
+# IntelliJ #
+##########
+.idea
+
 # code coverage"
 coverage
 
+
+*.txt
